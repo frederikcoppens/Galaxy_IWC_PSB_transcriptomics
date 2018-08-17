@@ -1,1 +1,1 @@
-# Galaxy_IWC_PSB_transcriptomics
+# PSB transcriptomics workflows for Galaxy IWC
